@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>tets</name>
+        <order/>
+        <roles>sn_anjanaapptest1.tets_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-22 00:20:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b3cfa7a4532200104fbcddeeff7b1296</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tets</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="anjanaapptest1" source="sn_anjanaapptest1">034d67a0532200104fbcddeeff7b1294</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="anjanaapptest1">034d67a0532200104fbcddeeff7b1294</sys_scope>
+        <sys_update_name>sys_ui_application_b3cfa7a4532200104fbcddeeff7b1296</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-22 00:20:08</sys_updated_on>
+    </sys_ui_application>
+</record_update>
